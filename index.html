@@ -20,7 +20,7 @@
     <!-- Page wrapper with .with-navbar-fixed-bottom class -->
     <div class="page-wrapper with-navbar-fixed-bottom">
         <!-- Content wrapper -->
-        <div class="content-wrapper">
+        <div class="content-wrapper" id="content-wrapper">
 
             <!-- Profile Image -->
             <div class="text-center">
@@ -29,7 +29,7 @@
             </div>
 
             <!-- Main Heading -->
-            <div class="text-center mainHeading">
+            <div class="text-center mainHeading" id="mainHeading">
                 Dhairya Ostwal
             </div>
 
@@ -75,7 +75,7 @@
                         Help
                         <i class="fa fa-angle-up" aria-hidden="true"></i>
                     </button> -->
-                <div class="text-center aboutNavbar">
+                <div class="text-center aboutNavbar" onclick="displayAbout()">
                     <a style="font-size: 20px; color: #1990FE;" class="fas fa-user"></a>
                     <br>About
                 </div>
@@ -88,7 +88,8 @@
             <br>Projects -->
 
             <span class="navbar-text ml-auto">
-                <div class="text-center">
+                <div class="text-center" onclick="displayProjects()">
+                    <!-- document.getElementById('mainHeading').innerHTML='Hey Everyone' -->
                     <a style="font-size: 20px; color: #1990FE;" class="fas fa-laptop-code"></a>
                     <br>Projects
                 </div>
@@ -96,7 +97,7 @@
 
             <!-- Navbar text -->
             <span class="navbar-text ml-auto">
-                <div class="text-center blogsNavbar">
+                <div class="text-center blogsNavbar" onclick="displayBlogs()">
                     <a style="font-size: 20px; color: #1990FE;" class="fas fa-newspaper"></a>
                     <br>Blogs
                 </div>
@@ -112,5 +113,6 @@
 <!-- Halfmoon JS -->
 <script src="https://cdn.jsdelivr.net/npm/halfmoon@1.1.1/js/halfmoon.min.js"></script>
 <script src="https://use.fontawesome.com/releases/v5.13.1/js/all.js" data-auto-replace-svg="nest"></script>
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="./app.js"></script>
 </html>

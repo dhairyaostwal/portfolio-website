@@ -1,0 +1,45 @@
+<!-- <div class="content-wrapper" id="content-wrapper"> -->
+<div>
+    <!-- Profile Image -->
+    <div class="text-center">
+        <img src="./assets/dhairya.jpg" alt="dhairya profile photo" height="200px" width="230px"
+            class="img-fluid profilePhoto">
+    </div>
+
+    <!-- Main Heading -->
+    <div class="text-center mainHeading" id="mainHeading">
+        Dhairya Ostwal
+    </div>
+
+    <div class="text-center username">
+        <a onclick="halfmoon.toggleDarkMode()">(@dhairyaostwal)</a>
+    </div>
+
+    <!-- Designation -->
+    <div class="text-center subHeading">
+        Frontend Developer, Blockchain Enthusiast
+        <br><i style="color: red" class="fas fa-map-marker-alt"></i> Bengaluru, India
+    </div>
+
+    <!-- Designation -->
+    <div class="text-center story">
+        <i style="color: rgb(108, 173, 11)" class="fas fa-seedling"></i> I started my journey as a Business
+        Developer Intern<br>finally turning to a Software Developer
+    </div>
+
+    <!-- social media -->
+    <div class="text-center social img-fluid">
+
+        <a href="https://medium.com/@dhairyaostwal"><img class="img-fluid"
+                src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"
+                alt="" srcset=""></a>
+        <span>
+            <a href="https://www.linkedin.com/in/dhairyaostwal/"><img class="img-fluid"
+                    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+                    alt="" srcset=""></a></span>
+        <span>
+            <a href="https://twitter.com/dhairyaostwal"><img class="img-fluid"
+                    src="https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white"
+                    alt="" srcset=""></a></span>
+    </div>
+</div>
