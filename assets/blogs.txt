@@ -127,7 +127,7 @@
         </div>
     </div>
 
-    <div class="text-center subHeading">
+    <div class="text-center subHeading navbarSpace">
         <a href="https://medium.com/@dhairyaostwal" target="_blank" style="color: gray;"><i class="fab fa-medium"></i> More blogs
             here</a>
     </div>

@@ -16,7 +16,7 @@
     </div>
 
     <!-- Designation -->
-    <div class="text-center subHeading">
+    <div class="text-center subHeading" style="margin-left: 1rem; margin-right: 1rem;">
         Frontend Developer, Blockchain Enthusiast
         <br><i style="color: red" class="fas fa-map-marker-alt"></i> Bengaluru, India
     </div>

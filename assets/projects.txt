@@ -109,7 +109,7 @@
     </div>
 </div>
 
-<div class="text-center subHeading">
+<div class="text-center subHeading navbarSpace">
     <a href="https://github.com/dhairyaostwal" target="_blank" style="color: gray;"><i class="fab fa-github"></i> More projects here</a>
 </div>
 
