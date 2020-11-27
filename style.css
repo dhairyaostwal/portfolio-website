@@ -1,3 +1,7 @@
+html{
+    overflow: hidden;
+}
+
 .aboutNavbar{
     margin-left: 20rem;
 }
@@ -45,6 +49,7 @@
 
 .social{
     margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 
 /* Project Page CSS */
@@ -69,12 +74,19 @@
     width: 80%;
 }
 
+.navbar-fixes{
+    padding: 30px 5px 30px 5px;
+}
+
+.navbarSpace{
+    margin-bottom: 2rem;
+}
 
 @media only screen and (max-width: 600px) {
-    body {
+    /* body {
       margin-left: 1rem;
-      margin-right: 1rem;
-    }
+      margin-right: auto;
+    } */
 
     .aboutNavbar{
         margin-left: 5%;
