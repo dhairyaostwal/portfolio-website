@@ -75,6 +75,15 @@
       margin-left: 1rem;
       margin-right: 1rem;
     }
+
+    .aboutNavbar{
+        margin-left: 5%;
+    }
+
+    .blogsNavbar{
+        margin-right: 5%;
+    }
+
     .mainHeading{
         font-size: 3.7rem;
         word-wrap: break-word;
