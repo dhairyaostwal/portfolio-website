@@ -27,6 +27,12 @@
         Developer Intern<br>finally turning to a Software Developer
     </div>
 
+<div class="text-center social img-fluid">
+                <a href="https://drive.google.com/file/d/1Ci8EJ5q6KXWFuthgQHSY3NF6Ymq4kl7-/view?usp=sharing" target="_blank">
+                    <img src="https://img.shields.io/badge/-Resume-ffd800?style=for-the-badge" alt="" srcset="">
+                </a>
+            </div>
+
     <!-- social media -->
     <div class="text-center social img-fluid">
 
