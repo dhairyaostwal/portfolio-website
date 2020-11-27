@@ -110,7 +110,7 @@
 </div>
 
 <div class="text-center subHeading">
-    <a href="https://github.com/dhairyaostwal" style="color: gray;"><i class="fab fa-github"></i> More projects here</a>
+    <a href="https://github.com/dhairyaostwal" target="_blank" style="color: gray;"><i class="fab fa-github"></i> More projects here</a>
 </div>
 
 </body>
