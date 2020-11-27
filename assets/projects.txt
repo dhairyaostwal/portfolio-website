@@ -17,7 +17,7 @@
 
 <body>
 
-    <div class="text-center projectMainHeading">My Top Projects</div>
+    <div class="text-center projectMainHeading">My Projects</div>
 
     <div class="text-center username">
         <a onclick="halfmoon.toggleDarkMode()">(@dhairyaostwal)</a>
