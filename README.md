@@ -1,5 +1,5 @@
 <h1 align="center">Dhairya Ostwal's Portfolio</h1>
-  <img align="center" src="https://media.defense.gov/2007/Sep/18/2000450331/-1/-1/0/070918-F-1234S-004.JPG">
+  <img align="center" src="./portfolio.png">
 <br></h3>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightyellow?&style=for-the-badge)](https://github.com/dhairyaostwal/portfolio-website/pulls)
