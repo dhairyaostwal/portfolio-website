@@ -24,11 +24,11 @@
     <!-- Designation -->
     <div class="text-center story">
         <i style="color: rgb(108, 173, 11)" class="fas fa-seedling"></i> I started my journey as a Business
-        Developer Intern<br>finally turning to a Software Developer
+        Dev. Intern<br>finally turning to a Software Developer
     </div>
 
 <div class="text-center social img-fluid">
-                <a href="https://drive.google.com/file/d/1gi6soL0iAd14yIPHwXulp7pACjFbEkg1/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1DXtQpaD9jF-0qMfkKUNjazlKjvjJsvPN/view?usp=sharing" target="_blank">
                     <img src="https://img.shields.io/badge/-Resume-ffd800?style=for-the-badge" alt="" srcset="">
                 </a>
             </div>
