@@ -1,124 +1,128 @@
-html{
-    overflow: hidden;
+html {
+  overflow: hidden;
 }
 
-.aboutNavbar{
-    margin-left: 20rem;
+.aboutNavbar {
+  margin-left: 20rem;
+  cursor: pointer;
 }
 
-.blogsNavbar{
-    margin-right: 20rem;
+.blogsNavbar {
+  margin-right: 20rem;
+  cursor: pointer;
 }
 
-.profilePhoto{
-    border-radius: 50%;
-    margin-top: 4rem;
-    margin-bottom: 2rem;
+.aboutProjects {
+  cursor: pointer;
 }
 
-.mainHeading{
-    font-family: 'Epilogue', sans-serif;
-    font-size: 4.5rem;
-    font-weight: 600;
+.profilePhoto {
+  border-radius: 50%;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
 }
 
-.username{
-    font-family: 'Epilogue', sans-serif;
-    font-size: 2rem;
-    font-weight: 500;
-    color: gray;
-    margin-bottom: 1rem;
+.mainHeading {
+  font-family: 'Epilogue', sans-serif;
+  font-size: 4.5rem;
+  font-weight: 600;
 }
 
-.subHeading{
-    font-family: 'Epilogue', sans-serif;
-    font-size: 2.5rem;
-    font-weight: 500;
-    color: gray;
-    word-wrap: break-word;
+.username {
+  font-family: 'Epilogue', sans-serif;
+  font-size: 2rem;
+  font-weight: 500;
+  color: gray;
+  margin-bottom: 1rem;
 }
 
-.story{
-    margin-top: 1rem;
-    font-family: 'Epilogue', sans-serif;
-    font-size: 2.3rem;
-    font-weight: 400;
-    color: gray;
-    margin-bottom: 2rem;
+.subHeading {
+  font-family: 'Epilogue', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: gray;
+  word-wrap: break-word;
 }
 
-.social{
-    margin-top: 1rem;
-    margin-bottom: 2rem;
+.story {
+  margin-top: 1rem;
+  font-family: 'Epilogue', sans-serif;
+  font-size: 2.3rem;
+  font-weight: 400;
+  color: gray;
+  margin-bottom: 2rem;
+}
+
+.social {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
 /* Project Page CSS */
 
-.projectMainHeading{
-    margin-top: 3rem;
-    font-family: 'Epilogue', sans-serif;
-    font-size: 4.5rem;
-    font-weight: 600;
+.projectMainHeading {
+  margin-top: 3rem;
+  font-family: 'Epilogue', sans-serif;
+  font-size: 4.5rem;
+  font-weight: 600;
 }
 
-.taramapic{
-    max-width: 100%;
+.taramapic {
+  max-width: 100%;
 }
 
-.projectsAlign{
-    margin-left: 5rem;
-    margin-right: auto;
+.projectsAlign {
+  margin-left: 5rem;
+  margin-right: auto;
 }
 
-.desktopCard{
-    width: 80%;
+.desktopCard {
+  width: 80%;
 }
 
-.navbar-fixes{
-    padding: 30px 5px 30px 5px;
+.navbar-fixes {
+  padding: 30px 5px 30px 5px;
 }
 
-.navbarSpace{
-    margin-bottom: 2rem;
+.navbarSpace {
+  margin-bottom: 2rem;
 }
 
 @media only screen and (max-width: 600px) {
-    /* body {
+  /* body {
       margin-left: 1rem;
       margin-right: auto;
     } */
 
-    .aboutNavbar{
-        margin-left: 5%;
-    }
-
-    .blogsNavbar{
-        margin-right: 5%;
-    }
-
-    .mainHeading{
-        font-size: 3.7rem;
-        word-wrap: break-word;
-    }
-
-    .subHeading{
-        font-size: 2rem;
-        word-wrap: break-word;
-    }
-
-    .story{
-        font-size: 1.5rem;
-        word-wrap: break-word;
-    }
-
-
-    .projectsAlign{
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-
-    .desktopCard{
-        width: auto;
-    }
-
+  .aboutNavbar {
+    margin-left: 5%;
   }
+
+  .blogsNavbar {
+    margin-right: 5%;
+  }
+
+  .mainHeading {
+    font-size: 3.7rem;
+    word-wrap: break-word;
+  }
+
+  .subHeading {
+    font-size: 2rem;
+    word-wrap: break-word;
+  }
+
+  .story {
+    font-size: 1.5rem;
+    word-wrap: break-word;
+  }
+
+  .projectsAlign {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .desktopCard {
+    width: auto;
+  }
+}
