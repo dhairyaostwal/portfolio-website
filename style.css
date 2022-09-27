@@ -118,11 +118,14 @@ html {
 
 #Blogs--Content .Blogs--Content--Data {
   padding: 0% 3%;
+  text-decoration: underline;
 }
 
 .Slides--Content--Month:hover,
 .Blogs--Content--Data:hover {
   text-decoration: underline;
+  color: #c06015;
+  font-weight: 700;
 }
 
 .Slides--Content--Data,
@@ -137,6 +140,10 @@ blockquote {
   padding: 0.5em 0.7em;
   font-style: italic;
   /* quotes: '\201C''\201D''\2018''\2019'; */
+}
+
+a{
+  color: inherit;
 }
 
 @media only screen and (max-width: 600px) {
