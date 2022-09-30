@@ -1,9 +1,5 @@
 # New Updates?
 
-## Immediate
-
-- Check blogs.html with ajax txt loading if problem fix
-
 ---
 
 ## Color Schema
