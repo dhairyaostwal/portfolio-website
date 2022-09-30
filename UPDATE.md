@@ -3,8 +3,6 @@
 ## Immediate
 
 - Check blogs.html with ajax txt loading if problem fix
-> Problem: Font reduced due to halfmoonCSS
-- Push to new branch
 
 ---
 
