@@ -1,0 +1,38 @@
+[
+  {
+    "project_title": "finCLI",
+    "project_description": "Finance CLI for Developers. Get all the updates whether BTC/Ethereum/DogeCoin/SENSEX/NIFTY/General Finance News - India & World",
+    "project_link": "https://github.com/dhairyaostwal/finCLI",
+    "project_language": "js"
+  },
+  {
+    "project_title": "news-api",
+    "project_description": "finCLI's own News API. No more limited API calls. Unlimited credible and latest information on BTC, Ethereum, Indian and Global Finance.",
+    "project_link": "https://github.com/finCLI/news-api",
+    "project_language": "py"
+  },
+  {
+    "project_title": "finCLI-Chrome",
+    "project_description": "Worried about getting latest market news? Here's a Chrome extension that gets you latest updates on stock market, crypto.",
+    "project_link": "https://github.com/finCLI/finCLI-Chrome",
+    "project_language": "js"
+  },
+  {
+    "project_title": "node-url-shortener",
+    "project_description": "URL Shortener API in NodeJS supporting pagination, sort params and lot more",
+    "project_link": "https://github.com/dhairyaostwal/node-url-shortener",
+    "project_language": "js"
+  },
+  {
+    "project_title": "twitterf",
+    "project_description": "Web Based Application for Identification of Fake Twitter Users",
+    "project_link": "https://github.com/dhairyaostwal/twitterf",
+    "project_language": "py"
+  },
+  {
+    "project_title": "Self-Driving-Car",
+    "project_description": "Lane Detection for Self Driving Car",
+    "project_link": "https://github.com/dhairyaostwal/Self-Driving-Car",
+    "project_language": "py"
+  }
+]
