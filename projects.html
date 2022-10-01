@@ -5,54 +5,20 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
     <link rel="stylesheet" href="style.css">
-    <title>Meet Dhairya Ostwal 🎉</title>
+    <title>Projects | Dhairya Ostwal</title>
 </head>
 
 <body>
+
     <div id="Blogs--Container">
-        <h1 class="Blogs--Heading">Dhairya Ostwal</h1>
-        <div style="margin-bottom: 1.5rem">
-            <a target="_blank" href="https://drive.google.com/file/d/1GWG7opsFp28fXEYLEHFWCjERzftoM34G/view?usp=sharing"
-                class="Download--Btn">
-                <img style="width: 1rem;" src="./assets/download 1 (1).png" alt="" srcset="">
-                Resume</a>
-            <a target="_blank" href="https://leetcode.com/dhairyaostwal/" class="Download--Btn">
-                <img style="width: 1rem;" src="./assets/Vector.png" alt="" srcset="">
-                Leetcode</a>
-        </div>
-        <div style="margin-bottom: 1.5rem">
-
-            <a style="text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/dhairyaostwal/">
-                <img class="fa fa-linkedin" src="./assets/linkedin-fa.png" alt="" srcset="">
-            </a>
-            <a style="text-decoration: none;" target="_blank" href="https://twitter.com/dhairyaostwal">
-                <img class="fa fa-twitter" src="./assets/twitter-fa.png" alt="" srcset="">
-            </a>
-            <a style="text-decoration: none;" target="_blank" href="https://github.com/dhairyaostwal">
-                <img class="fa fa-github" src="./assets/github-fa.png" alt="" srcset="">
-            </a>
-
-        </div>
-        <div
-            style="display:flex;flex-direction: column; align-items: center; justify-content: center; margin-bottom: 7rem;">
-            <img class="Profile--DP" src="./assets/dhairyaSq.jpg" alt="">
-            <p style="text-align: center; font-weight: 600; font-size: 1.2rem;">Software Engineer from India </p>
-            <div class="Profile--Content">
-
-                <span style="font-weight:600; font-size: 1.2rem;">Some cool stuff about me:</span>
-                <p>🏆 JP Morgan Code for Good 2022 Winner</p>
-                <p>☘️ Prev, SWE Intern at Akamai Technologies</p>
-                <p>💰 Creator of <a target="_blank" href="https://github.com/finCLI">finCLI</a></p>
-                <p>🚀 Have done Biz Dev, Prod. Mgmt, Design in the past. This has helped me to understand customer
-                    better and build the solutions they need. So you get a complete package!</p>
-                <p>📚 Here's my <a target="_blank"
-                        href="https://earthy-celery-7c8.notion.site/75155f0cdc714fa98f2294fafdf4ce89?v=2048ffbe02f44d36841109467dda1503">2022
-                        Book Reads</a></p>
-            </div>
-        </div>
+        <h1 class="Blogs--Heading">projects</h1>
+        <div id="Blogs--Content"> </div>
+        <p style="margin-top: 1.5rem; text-align: center;">
+            <a href="https://github.com/dhairyaostwal" style="color: #c06015; font-weight: 600;">More cool stuff on GitHub</a>
+        </p>
+        <div style="margin-bottom: 5rem;" id="Slides--Content"></div>
     </div>
     <nav class="mobile-nav">
         <a href="/" class="bloc-icon">
@@ -98,6 +64,7 @@
             <label for="">blog</label>
         </a>
     </nav>
+    <script type="module" src="./controllers/projects.controllers.js"></script>
 </body>
 
 </html>
