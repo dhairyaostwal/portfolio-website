@@ -115,15 +115,25 @@ a {
   cursor: pointer;
 }
 
+.bloc-icon:hover {
+  color: #c06015;
+}
+
+.bloc-icon-google-icon-svg {
+  fill: #424642;
+}
+
+.bloc-icon-google-icon-svg:hover {
+  fill: #c06015;
+}
+
 /* social media icons */
 
 .fa {
   padding: 2%;
   font-size: 2rem;
   width: 2rem;
-  text-align: center;
-  text-decoration: none;
-  /* border-radius: 50% 50%; */
+  height: 2.1rem;
   margin-left: 0.5rem;
 }
 
