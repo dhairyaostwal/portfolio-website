@@ -1,4 +1,4 @@
-<h1 align="center">Dhairya Ostwal's Portfolio</h1>
+<h1 align="center">Dhairya Ostwal's Old Portfolio</h1>
 
 [![Visits Badge](https://badges.pufler.dev/visits/dhairyaostwal/portfolio-website)](https://github.com/dhairyaostwal/portfolio-website/)
   
